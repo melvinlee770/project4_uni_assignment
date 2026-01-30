@@ -1,5 +1,4 @@
 # Project 4 activity
----
 
 ## Company visit
 - 26 Jan 2026
